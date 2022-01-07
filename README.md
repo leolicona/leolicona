@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @leolicona
-- 👀 I’m interested in to learn phyton to work in th back End and React 
-- 🌱 I’m currently learning Vue.js and Phyton 
-- 👨🏻 💻 I’m looking to collaborate on great proyets 
+- 👋 Hi, I’m @leolicona, JavaScript developer 
+- Actually, I am learning to make SPA with React library
+- 👀 I’m interested in to colaborate in web development pyoyects 
 - 📫 How to reach me ...
 
-<!---
-leolicona/leolicona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
