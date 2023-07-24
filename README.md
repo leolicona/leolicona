@@ -1,4 +1,4 @@
-# Leobardo Licona Soto :rocket:
+# Leobardo Licona Soto
 
 ## About me
 
@@ -16,17 +16,22 @@ I'm a highly motivated and **results-oriented individual**. I'm also a **team pl
 ## Technologies
 
 * **Frontend:** HTML, CSS, JavaScript, React, StyledComponents, WordPress :computer:
-* **Backend:** Node.js, Express.js, SQL, PostgreSQL, Python, mongoDB :data:
+* **Backend:** Node.js, Express.js, SQL, PostgreSQL, Python, mongoDB  :rocket:
 * **Other:** Git, bash, C++, npm :package:
 
 ## Work experience
 
 * **Frontend Developer**
   Grupo Salinas, Cdmx | March 2022 - Present
-    * Developed the User Interface of "Baz Super App" using React and StyledComponents, with a responsive 'mobile first' and SEO-friendly approach. :iphone:
+    * Developed the User Interface of  [ "Baz Super App"](https://www.baz.app/) using React and StyledComponents, with a responsive 'mobile first' and SEO-friendly approach. :iphone:
     * Built reusable components and developed custom hooks based on SOLID principles. :bulb:
     * Implemented routing and route protection, managed state with Redux and integrated APIs and web services. :wrench:
     * Currently leading the construction of a Resful API with node.js and express.js. :rocket:
+
+ 
+![image](https://github.com/leolicona/leolicona/assets/84453410/3b6640eb-66fe-426e-8a3e-7c220b9727f8)
+
+
 * **Web Developer**
   Freelance | January 2021 - February 2022
     * Developed e-commerce sites with WordPress, created plugins, themes and Gutenberg blocks with PHP, JavaScript and React. :shopping_cart:
