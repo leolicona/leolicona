@@ -16,7 +16,7 @@ I'm a highly motivated and **results-oriented individual**. I'm also a **team pl
 ## Technologies
 
 * **Frontend:** HTML, CSS, JavaScript, React, StyledComponents, WordPress :computer:
-* **Backend:** Node.js, Express.js, SQL, PostgreSQL, Python, mongoDB :database:
+* **Backend:** Node.js, Express.js, SQL, PostgreSQL, Python, mongoDB  :database:
 * **Other:** Git, bash, C++, npm :package:
 
 ## Work experience
@@ -35,7 +35,7 @@ I'm a highly motivated and **results-oriented individual**. I'm also a **team pl
 ## Education
 
 * **Universidad del Valle de México**
-  Ing. Diseño de Software y Redes | March 2021 - Present (Expected graduation: December 2023)
+Ing. Diseño de Software y Redes | March 2021 - Present (Expected graduation: December 2023)
     * Focused on the fundamentals of programming, C++, algorithms, data structures, and software development. :books:
 
 I'm excited to learn more about your company and how I can contribute to your team. Please feel free to contact me if you have any questions.
