@@ -16,7 +16,7 @@ I'm a highly motivated and **results-oriented individual**. I'm also a **team pl
 ## Technologies
 
 * **Frontend:** HTML, CSS, JavaScript, React, StyledComponents, WordPress :computer:
-* **Backend:** Node.js, Express.js, SQL, PostgreSQL, Python, mongoDB  :database:
+* **Backend:** Node.js, Express.js, SQL, PostgreSQL, Python, mongoDB :data:
 * **Other:** Git, bash, C++, npm :package:
 
 ## Work experience
