@@ -27,11 +27,6 @@ I'm a highly motivated and **results-oriented individual**. I'm also a **team pl
     * Built reusable components and developed custom hooks based on SOLID principles. :bulb:
     * Implemented routing and route protection, managed state with Redux and integrated APIs and web services. :wrench:
     * Currently leading the construction of a Resful API with node.js and express.js. :rocket:
-
- 
-![image](https://github.com/leolicona/leolicona/assets/84453410/3b6640eb-66fe-426e-8a3e-7c220b9727f8)
-
-
 * **Web Developer**
   Freelance | January 2021 - February 2022
     * Developed e-commerce sites with WordPress, created plugins, themes and Gutenberg blocks with PHP, JavaScript and React. :shopping_cart:
@@ -46,5 +41,10 @@ Ing. Diseño de Software y Redes | March 2021 - Present (Expected graduation: De
 I'm excited to learn more about your company and how I can contribute to your team. Please feel free to contact me if you have any questions.
 
 Thanks for your time! :wave:
+
+###  Contributions overview
+My contributions to the web application "Baz" are stored in a private repository provided by the company. As a result, I display an image of my activity, showcasing my committed code and involvement in the project.
+![image](https://github.com/leolicona/leolicona/assets/84453410/6b6fdc4a-83bb-4c0c-97f6-ad0b2a02dc7b)
+
 
 
