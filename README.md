@@ -44,6 +44,7 @@ Thanks for your time! :wave:
 
 ###  Contributions overview
 My contributions to the web application "Baz" are stored in a private repository provided by the company. As a result, I display an image of my activity, showcasing my committed code and involvement in the project.
+
 ![image](https://github.com/leolicona/leolicona/assets/84453410/6b6fdc4a-83bb-4c0c-97f6-ad0b2a02dc7b)
 
 
