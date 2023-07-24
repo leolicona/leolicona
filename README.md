@@ -6,12 +6,6 @@
 * **Passionate** about creating innovative digital products that solve a need and provide value to the user.
 * **Proficient** in HTML, CSS, JavaScript and React, used to work in teams using agile methodologies such as SCRUM and Kanban.
 
-## Social networks and email
-
-* **LinkedIn:** linkedin.com/in/leolicona
-* **GitHub:** github.com/leolicona
-* **Email:** leolicona.dev@gmail.com
-
 ## Technologies
 
 * **Frontend:** React, StyledComponents, Redux, SEO, Google Tag Manager, Google Analytics
