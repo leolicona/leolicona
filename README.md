@@ -17,19 +17,20 @@
 
 ## 🛠️ Notable Projects
 
-### 🏷️ **Vineportal - Neostella** (March 2022 - Present)
+### 🏷️ **Vineportal - Neostella** (September 2024 - Present)
 Developed and maintained the Data Gavernance feature and Neostella chorme Extention  using **React** and **TypeScript**, collaborating with cross-functional teams, I delivered customer-centric solutions in a fast-paced startup environment.
 
-### 🏷️ **Baz Superapp - Grupo Salinas** (March 2022 - Present)
-Developed and maintained the Baz superapp web application using **React** and **TypeScript**, integrating APIs for entertainment services, payments, and purchases. Built responsive and reusable components, designed with mobile-first principles, and implemented SEO and accessibility best practices.
 
-### 🧑‍💻 **SMART - Content Management System** (Grupo Salinas)
-Led the development of a content management and marketing campaign system using **React** and **Node.js**, focusing on scalable architecture and clean code practices.
-
-### 📞 **AT&T Platform - Inspirum** (Nov 2021 - Mar 2022)
+### 📞 **AT&T Platform - Inspirum** (March 2024 - August 2024)
 Developed a responsive and accessible user interface for AT&T's telephony app using **React** and **TypeScript**, enabling users to efficiently manage airtime sales and partner structures.
 
-### 🛒 **E-Commerce Platforms - Estrategia** (Jan 2021 - Feb 2022)
+### 🧑‍💻 **SMART - Content Management System** (March 2022 - March 2024)
+Led the development of a content management and marketing campaign system using **React** and **Node.js**, focusing on scalable architecture and clean code practices.
+
+### 🏷️ **Baz Superapp - Grupo Salinas** (Grupo Salinas)
+Developed and maintained the Baz superapp web application using **React** and **TypeScript**, integrating APIs for entertainment services, payments, and purchases. Built responsive and reusable components, designed with mobile-first principles, and implemented SEO and accessibility best practices.
+
+### 🛒 **E-Commerce Platforms - Estrategia** (January 2021 - February 2022)
 Collaborated on delivering successful e-commerce projects, utilizing **WordPress**, **PHP**, and **React** to meet diverse client needs.
 
 ## 💡 Continuous Learning
