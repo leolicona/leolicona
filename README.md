@@ -17,7 +17,7 @@
 
 ## 🛠️ Notable Projects
 
-### 🏷️ ** Vineportal - Neostella ** (March 2022 - Present)
+### 🏷️ **Vineportal - Neostella** (March 2022 - Present)
 Developed and maintained the Data Gavernance feature and Neostella chorme Extention  using **React** and **TypeScript**, collaborating with cross-functional teams, I delivered customer-centric solutions in a fast-paced startup environment.
 
 ### 🏷️ **Baz Superapp - Grupo Salinas** (March 2022 - Present)
