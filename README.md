@@ -1,51 +1,51 @@
-# Leobardo Licona Soto
+# Leobardo Licona Soto - Software Engineer
 
-## About me
+👋 Hi! I'm **Leobardo Licona Soto**, a passionate software engineer with 3+ years of experience specializing in building engaging and responsive user interfaces. I love working with modern web technologies like **React**, **TypeScript**, and **Next.js** to create scalable and high-performing applications. I thrive in **Agile** environments, collaborating with cross-functional teams to deliver innovative solutions.
 
-I'm a creative and results-oriented **Frontend Developer** with 2+ years of experience developing responsive web applications focused on **user experience**. I'm passionate about creating **innovative digital products** that solve a need and provide **value to the user**. I'm proficient in **HTML, CSS, JavaScript, and React**, and I'm used to working in teams using agile methodologies such as **SCRUM and Kanban**.
+🌐 **Location**: Mexico City, MX  
+📧 **Email**: [leolicona.dev@gmail.com](mailto:leolicona.dev@gmail.com)  
+🔗 **LinkedIn**: [leolicona](https://linkedin.com/in/leolicona)  
+🔗 **GitHub**: [leolicona](https://github.com/leolicona)
 
-I'm a highly motivated and **results-oriented individual**. I'm also a **team player** and I'm always willing to help others. I'm eager to learn new things and I'm always looking for new challenges. **:smile:** 
+## 🚀 Expertise & Technologies
+- **Frontend Development**: HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Next.js
+- **Backend Development**: Node.js, Express.js, RESTful APIs, MongoDB, Pythion, FastAAPI, SQL (PostgreSQL)
+- **Testing**: Jest, React Testing Library
+- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **Cloud & DevOps**: AWS, GitLab CI/CD, Trunk-Based Development
+- **Other**: Storybook, Bash, C/C++
 
+## 🛠️ Notable Projects
 
-## Social networks and email
+### 🏷️ ** Vineportal - Neostella ** (March 2022 - Present)
+Developed and maintained the Data Gavernance feature and Neostella chorme Extention  using **React** and **TypeScript**, collaborating with cross-functional teams, I delivered customer-centric solutions in a fast-paced startup environment.
 
-* **LinkedIn:** https://www.linkedin.com/in/leolicona/ :bust_in_silhouette:
-* **GitHub:** https://github.com/leolicona :octocat:
-* **Email:** leolicona.dev@gmail.com :mailbox:
+### 🏷️ **Baz Superapp - Grupo Salinas** (March 2022 - Present)
+Developed and maintained the Baz superapp web application using **React** and **TypeScript**, integrating APIs for entertainment services, payments, and purchases. Built responsive and reusable components, designed with mobile-first principles, and implemented SEO and accessibility best practices.
 
-## Technologies
+### 🧑‍💻 **SMART - Content Management System** (Grupo Salinas)
+Led the development of a content management and marketing campaign system using **React** and **Node.js**, focusing on scalable architecture and clean code practices.
 
-* **Frontend:** HTML, CSS, JavaScript, React, StyledComponents, WordPress :computer:
-* **Backend:** Node.js, Express.js, SQL, PostgreSQL, Python, mongoDB  :rocket:
-* **Other:** Git, bash, C++, npm :package:
+### 📞 **AT&T Platform - Inspirum** (Nov 2021 - Mar 2022)
+Developed a responsive and accessible user interface for AT&T's telephony app using **React** and **TypeScript**, enabling users to efficiently manage airtime sales and partner structures.
 
-## Work experience
+### 🛒 **E-Commerce Platforms - Estrategia** (Jan 2021 - Feb 2022)
+Collaborated on delivering successful e-commerce projects, utilizing **WordPress**, **PHP**, and **React** to meet diverse client needs.
 
-* **Frontend Developer**
-  Grupo Salinas, Cdmx | March 2022 - Present
-    * Developed the User Interface of  [ "Baz Super App"](https://www.baz.app/) using React and StyledComponents, with a responsive 'mobile first' and SEO-friendly approach. :iphone:
-    * Built reusable components and developed custom hooks based on SOLID principles. :bulb:
-    * Implemented routing and route protection, managed state with Redux and integrated APIs and web services. :wrench:
-    * Currently leading the construction of a Resful API with node.js and express.js. :rocket:
-* **Web Developer**
-  Freelance | January 2021 - February 2022
-    * Developed e-commerce sites with WordPress, created plugins, themes and Gutenberg blocks with PHP, JavaScript and React. :shopping_cart:
-    * Used the WordPress API, as well as paid plugins like WooCommerce, Sensei LMS, Dokan, All-in-One WP Migration and development tools like Local and XAMP. :computer:
+## 💡 Continuous Learning
+I believe in lifelong learning and continuously improving my skills. I have completed 40+ courses on **Platzi**, including an intensive **JavaScript Challenge** that strengthened my full-stack web development expertise.
 
-## Education
+## 🧠 Education
+**Software Engineering** - Universidad del Valle de México (2021 - 2024)  
+**Web Development** - Platzi (Ongoing)
 
-* **Universidad del Valle de México**
-Ing. Diseño de Software y Redes | March 2021 - Present (Expected graduation: December 2023)
-    * Focused on the fundamentals of programming, C++, algorithms, data structures, and software development. :books:
+## 🌎 Languages
+- Spanish (Native)
+- English (Intermediate)
 
-I'm excited to learn more about your company and how I can contribute to your team. Please feel free to contact me if you have any questions.
+---
 
-Thanks for your time! :wave:
-
-###  Contributions overview
-My contributions to the web application "Baz" are stored in a private repository provided by the company. As a result, I display an image of my activity, showcasing my committed code and involvement in the project.
-
-![image](https://github.com/leolicona/leolicona/assets/84453410/6b6fdc4a-83bb-4c0c-97f6-ad0b2a02dc7b)
+Feel free to explore my repositories or reach out to collaborate on exciting projects!
 
 
 
