@@ -1,6 +1,6 @@
 # Leo Licona - Software Engineer
 
-👋 Hi! I'm **Leo Licona **, a passionate software engineer with 3+ years of experience specializing in building engaging and responsive user interfaces. I love working with modern web technologies like **React**, **TypeScript**, and **Next.js** to create scalable and high-performing applications. I thrive in **Agile** environments, collaborating with cross-functional teams to deliver innovative solutions.
+👋 Hi! I'm **Leo Licona**, a passionate software engineer with 3+ years of experience specializing in building engaging and responsive user interfaces. I love working with modern web technologies like **React**, **TypeScript**, and **Next.js** to create scalable and high-performing applications. I thrive in **Agile** environments, collaborating with cross-functional teams to deliver innovative solutions.
 
 🌐 **Location**: Mexico City, MX  
 📧 **Email**: [leolicona.dev@gmail.com](mailto:leolicona.dev@gmail.com)  
