@@ -7,7 +7,7 @@ Full-stack Software Engineer with over 4 years of experience specializing in the
 
 ## EXPERIENCE
 
-**Kunai Co.** | Mexico City, October 2024 - Present
+**PWC** | Mexico City, October 2024 - Present
 **Senior Software Engineer**
 * Contributed to develop and maintain 7ps, a cloud-native testing platform used to run automated application tests. This platform is compatible with various test frameworks and integrates into any CI/CD pipeline through its API.
 * Collaborated on key architectural decisions to refactor the CFT module, significantly enhancing the efficiency and cost-effectiveness of the 7ps testing platform on AWS.
